@@ -17,7 +17,7 @@ Grundfos Kollegiet is a newly built student dormitory near the city centre of Aa
     <li>Notion</li>
   </ul>
 
-<h4>Presentation</h4>
+<h4>Presentation:</h4>
  <ul>
     <li>Canva</li>
  </ul>
