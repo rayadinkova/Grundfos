@@ -1,6 +1,8 @@
 # Grundfos
 1st semester project - Busness Academy Aarhus
 
+🔗 [Figma Prorotype](https://www.figma.com/design/A7A0omOxkfpv7cW1KqynDp/Webapp?node-id=0-1&node-type=canvas&t=EunAJtOFKGcQOOAv-0)
+
 Grundfos Kollegiet is a newly built student dormitory near the city centre of Aarhus, for which me and a group of 4 fellow designers, developed a digital solution for the dormitory's infoscreen.
 
 <h3>Technologies used:</h3>
