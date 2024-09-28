@@ -46,7 +46,7 @@ Grundfos Kollegiet is a newly built student dormitory near the city centre of Aa
   <li>User persona</li>
   <li>HMW</li>
   <li>User flow</li>
-  <li>Interaction design(Low fidelity/Hight fidelity wireframes)</li>
+  <li>Interaction design(Low fidelity/High fidelity wireframes)</li>
   <li>User testing</li>
 </ul>
 
