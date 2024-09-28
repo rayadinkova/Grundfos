@@ -1,7 +1,7 @@
 # Grundfos
 1st semester project - Busness Academy Aarhus
 
-🔗 See graphic materials of the project on my website: [rayad.dk](https://rayad.dk/)
+🔗 See graphic materials of the project on my website: [rayad.dk](http://rayad.dk/)
 
 Grundfos Kollegiet is a newly built student dormitory near the city centre of Aarhus, for which me and a group of 4 fellow designers, developed a digital solution for the dormitory's infoscreen.
 
